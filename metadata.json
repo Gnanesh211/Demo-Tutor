@@ -1,0 +1,8 @@
+{
+  "name": "LinguaMaster AI",
+  "description": "An advanced AI-powered English learning app that teaches English to users in their native language. It adapts seamlessly to any world language, providing a personalized and interactive learning experience through a voice-first interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
